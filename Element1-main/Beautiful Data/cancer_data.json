@@ -1,0 +1,121 @@
+[
+    {
+        "year": 2000,
+        "asr": 18.20779159,
+        "crudeRate": 27.21191878,
+        "cumulativeRisk":2.331210517, 
+        "total": 6607
+    },
+    {
+        "year": 2001,
+        "asr": 17.63936991,
+        "crudeRate": 26.76169875,
+        "cumulativeRisk":2.29254645, 
+        "total": 6488
+    },
+    {
+        "year": 2002,
+        "asr": 17.20042903,
+        "crudeRate": 26.19092321,
+        "cumulativeRisk": 2.228861822,
+        "total": 6378
+    },
+    {
+        "year": 2003,
+        "asr": 16.63309659,
+        "crudeRate": 25.38391379,
+        "cumulativeRisk": 2.148078725,
+        "total": 6203
+    },
+    {
+        "year": 2004,
+        "asr": 16.21473119,
+        "crudeRate": 25.03758898,
+        "cumulativeRisk": 2.118057968,
+        "total": 6144
+    },
+    {
+        "year": 2005,
+        "asr": 15.89025914,
+        "crudeRate": 24.59788913,
+        "cumulativeRisk": 2.066093862,
+        "total": 6072
+    },
+    {
+        "year": 2006,
+        "asr": 15.59618923,
+        "crudeRate": 24.23622819,
+        "cumulativeRisk": 2.039624031,
+        "total": 6011
+    },
+    {
+        "year": 2007,
+        "asr": 15.25169478,
+        "crudeRate": 23.83432138,
+        "cumulativeRisk": 1.996361317,
+        "total": 5942
+    },
+    {
+        "year": 2008,
+        "asr": 14.72295367,
+        "crudeRate": 23.22705374,
+        "cumulativeRisk": 1.936587801,
+        "total": 5824
+    },
+    {
+        "year": 2009,
+        "asr": 14.32269471,
+        "crudeRate": 22.75276785,
+        "cumulativeRisk": 1.873387458,
+        "total": 5741
+    },
+    {
+        "year": 2010,
+        "asr": 13.47358366,
+        "crudeRate": 21.63778327,
+        "cumulativeRisk": 1.780487893,
+        "total": 5494
+    },
+    {
+        "year": 2011,
+        "asr": 13.55315301,
+        "crudeRate": 21.67921206,
+        "cumulativeRisk": 1.761320228,
+        "total": 5541
+    },
+    {
+        "year": 2012,
+        "asr": 13.17019635,
+        "crudeRate": 21.04616143,
+        "cumulativeRisk": 1.725193315,
+        "total": 5488
+    },
+    {
+        "year": 2013,
+        "asr": 12.70740333,
+        "crudeRate": 20.43435531,
+        "cumulativeRisk": 1.658527806,
+        "total": 5359
+    },
+    {
+        "year": 2014,
+        "asr": 12.3142125,
+        "crudeRate": 20.03584253,
+        "cumulativeRisk": 1.617842442,
+        "total": 5289
+    },
+    {
+        "year": 2015,
+        "asr": 11.98579808,
+        "crudeRate": 19.54246054,
+        "cumulativeRisk": 1.55864539,
+        "total": 5198
+    },
+    {
+        "year": 2016,
+        "asr": 12.05937175,
+        "crudeRate": 19.9233665,
+        "cumulativeRisk": 1.577530383,
+        "total": 5339
+    }
+]
